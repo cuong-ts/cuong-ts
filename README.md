@@ -12,7 +12,7 @@
 
 * 🔭 I’m currently working on **some of my side projects :P**
 * 👯 I’m looking to collaborate on **anything free and open source**
-- 👨‍💻 All of my projects are available at [https://github.com/cuong-nd](https://github.com/cuong-nd)
+- 👨‍💻 All of my projects are available at [https://github.com/cuong-ts](https://github.com/cuong-ts)
 - 💬 Ask me about **DevOps, AWS**
 
 
@@ -21,7 +21,7 @@
 <!--Status
 <a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuong-nd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
 -->
-
+<!--
 <h3 align="center">⚡ Interested ⚡ </h3>
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
@@ -46,6 +46,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black??style=flat-square&logo=elasticsearch)
 ![Logstash](https://img.shields.io/badge/Logstash-black??style=flat-square&logo=logstash)
 ![Kibana](https://img.shields.io/badge/Kibana-black??style=flat-square&logo=kibana)
+-->
 
 #
 <br>
