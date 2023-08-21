@@ -18,6 +18,11 @@
 
 ##
 
+## [cuong-ts](https://github.com/cuong-ts/cuong-ts/blob/main/README.md)
+[![](https://raw.githubusercontent.com/cuong-ts/cuong-ts/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cuong-ts/cuong-ts/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cuong-ts/cuong-ts/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cuong-ts/cuong-ts/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cuong-ts/cuong-ts/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--Status
 <a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuong-nd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
 -->
@@ -46,7 +51,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black??style=flat-square&logo=elasticsearch)
 ![Logstash](https://img.shields.io/badge/Logstash-black??style=flat-square&logo=logstash)
 ![Kibana](https://img.shields.io/badge/Kibana-black??style=flat-square&logo=kibana)
--->
+
 
 #
 <br>
@@ -68,7 +73,7 @@
 
 #
 
-
+-->
 
 <!--
 
