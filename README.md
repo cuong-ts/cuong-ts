@@ -15,7 +15,11 @@
 * 👨‍💻 All of my projects are available at [https://github.com/cuong-ts](https://github.com/cuong-ts)
 * 💬 Ask me about **DevOps, AWS**
 
-![snake animation](https://github.com/cuong-ts/cuong-ts/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuan-nguyen3-ts/tuan-nguyen3-ts/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuan-nguyen3-ts/tuan-nguyen3-ts/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuan-nguyen3-ts/tuan-nguyen3-ts/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ##
