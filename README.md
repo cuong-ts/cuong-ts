@@ -15,6 +15,8 @@
 * 👨‍💻 All of my projects are available at [https://github.com/cuong-ts](https://github.com/cuong-ts)
 * 💬 Ask me about **DevOps, AWS**
 
+![snake animation](https://github.com/cuong-ts/cuong-ts/blob/output/github-contribution-grid-snake2.svg)
+
 
 ##
 <!--
